@@ -1,4 +1,4 @@
-### Olá! eu sou Felipe André, tenho 27 anos sou formado em Administração e estou estudando Análise e Desenvolvimento de Sistemas em busca da primeira oportunidade na área tech.   👋
+### Olá! Eu sou Felipe André, tenho 27 anos sou formado em Administração e estou estudando Análise e Desenvolvimento de Sistemas em busca da primeira oportunidade na área tech.   👋
 
 - 🔭 Atualmente estou tentando fazer minha transição de carreira.
 - 🌱 Estou estudando JavaScript
