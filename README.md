@@ -1,10 +1,9 @@
 ### Olá! Eu sou Felipe André, tenho 27 anos sou formado em Administração e estou estudando Análise e Desenvolvimento de Sistemas em busca da primeira oportunidade na área tech.   👋
 
 - 🔭 Atualmente estou tentando fazer minha transição de carreira.
-- 🌱 Estou estudando JavaScript
-- 🤔 Estou procurando por minha primeira vaga no mercado
-- 📫 Contate-me no email: felipeandre8@outlook.com
-- 🎮 Games
+- 🌱 Estou estudando JavaScript e ReactJS
+- 🤔 Estou procurando por minha primeira vaga no mercado como desenvolvedor Front End Júnior ou Estagiário
+- 📫 Contate-me no email: felipeandree8@gmail.com 
 - 🎶 Música 
 - ☕ Café 
 - 🍻 Cerveja
