@@ -2,7 +2,7 @@
 
 
 - 🌱 Estou estudando JavaScript e ReactJS
-- 🤔 Estou procurando por minha primeira vaga no mercado como desenvolvedor Front End Júnior ou Estagiário
+- 🤔 Estou procurando vaga no mercado como desenvolvedor Front End Júnior ou Estagiário
 - 📫 Contate-me no email: felipeandree8@gmail.com 
 - 🎶 Música 
 - ☕ Café 
