@@ -1,4 +1,4 @@
-### Olá! Eu sou Felipe André, tenho 27 anos sou formado em Administração e estou estudando Análise e Desenvolvimento de Sistemas em busca de vaga como desenvolvedor Front End
+### Olá! Eu sou Felipe André, tenho 28 anos sou formado em Administração e estou estudando Análise e Desenvolvimento de Sistemas em busca de vaga como desenvolvedor Front End
 
 
 - 🌱 Estou estudando JavaScript e ReactJS
